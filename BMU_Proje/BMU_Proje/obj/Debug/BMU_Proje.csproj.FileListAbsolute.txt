@@ -1,0 +1,16 @@
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe.config
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.pdb
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.AssemblyReference.cache
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\Sistem Programlama\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.pdb
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe.config
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.pdb
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.AssemblyReference.cache
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.pdb

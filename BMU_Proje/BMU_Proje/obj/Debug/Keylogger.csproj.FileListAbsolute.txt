@@ -1,0 +1,8 @@
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe.config
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\bin\Debug\BMU_Proje.pdb
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\obj\Debug\Keylogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.exe
+C:\Users\Wolf\Desktop\keylogger\BMU_Proje\BMU_Proje\obj\Debug\BMU_Proje.pdb
